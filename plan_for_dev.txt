@@ -1,0 +1,9 @@
+Plano geral primeiros passos
+
+1 Generate git hub repository
+2 Link local file with repository
+3 Make Main branch and Develop branch
+4 Make a git flow routine to develop and merge on develop before Main
+5 generate gitignore, git keep and readme files
+6 make first commit and merge in develop
+7 merge develop with main and make new develop
